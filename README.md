@@ -157,7 +157,7 @@ Tech Stack: Java EE | JSP | Servlets | MySQL | Tailwind CSS | MVC Architecture
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=supuna18&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github.com/users/supuna18/achievements/pull-shark" alt="GitHub Trophies"/>
 </div>
 
 <br/>
