@@ -96,12 +96,8 @@ A creative and analytical IT undergraduate at SLIIT, I am driven by a passion to
 -   **Portfolio:** [https://supunanjana.vercel.app/](https://supunanjana.vercel.app/)
 -   **LinkedIn:** [https://www.linkedin.com/in/supun-anjana-bb26342a0](https://www.linkedin.com/in/supun-anjana-bb26342a0)
 -   **GitHub:** [https://github.com/supuna18](https://github.com/supuna18)
--   **Email:** supun.anjana.dev@gmail.com  (ඔබට සුදුසු Email එකක් දමන්න)
+-   **Email:** supuna793@gmail.com
 
 ---
 
-### 🙏 Acknowledgements
 
--   Icons from [Font Awesome](https://fontawesome.com/)
--   Badges from [Shields.io](https://shields.io/)
--   GitHub Stats from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
