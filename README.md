@@ -78,6 +78,28 @@ const supun = {
 
 <br/>
 
+## 💼 Featured Projects
+
+<details open>
+<summary><b>🍃 Green Leaf Farm System</b> - MERN Stack Application</summary>
+<br/>
+
+**A comprehensive farm management solution with real-time analytics**
+
+```
+Tech Stack: MongoDB | Express.js | React.js | Node.js | Chart.js | Tailwind CSS
+```
+
+**Key Features:**
+- ✅ Complete CRUD operations for Crop & Fertilizer management
+- 📊 Interactive data visualization dashboards with Chart.js/Recharts
+- 📄 Automated PDF report generation for operational insights
+- 🔐 Secure authentication and role-based access control
+- 📱 Fully responsive design for mobile and desktop
+
+**Links:**
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://lnkd.in/g4x_zEi6)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SavinduS/Smart-Farm-System)
 
 **Impact:** Streamlined farm operations management, reducing administrative overhead by 40%
 
@@ -87,6 +109,32 @@ const supun = {
 
 <details>
 <summary><b>🍔 Online Food Ordering System</b> - Java EE Full-Stack Application</summary>
+<br/>
+
+**A robust enterprise-grade food ordering platform**
+
+```
+Tech Stack: Java EE | JSP | Servlets | MySQL | Tailwind CSS | MVC Architecture
+```
+
+**Key Features:**
+- 🏗️ MVC Architecture with clean separation of concerns
+- 🎯 DAO & Factory Design Patterns for maintainable code
+- 👤 User authentication and session management
+- 💬 Customer feedback and review system
+- 🛒 Shopping cart with order management
+- 📱 Responsive UI with Tailwind CSS
+
+**Links:**
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=heroku&logoColor=white)](https://online-food-ordering-app-lfmu.onrender.com/home)
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SavinduS/Online-Food-Ordering)
+
+**Impact:** Provides seamless online ordering experience with enterprise-level code quality
+
+---
+
+</details>
+
 <br/>
 
 ## 📈 GitHub Analytics
@@ -114,17 +162,41 @@ const supun = {
 
 <br/>
 
+## 🤝 Leadership & Community Impact
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>🦁 Co-Assistant Secretary</strong><br/>
+      <em>Leo Club of SLIIT (2025 - Present)</em><br/>
+      <sub>Leading administrative coordination and event planning</sub>
+    </td>
+    <td align="center" width="50%">
+      <strong>📋 Project Secretary</strong><br/>
+      <em>Leo Club of SLIIT (2024 - 2025)</em><br/>
+      <sub>Managed environmental and community service projects</sub>
+    </td>
+  </tr>
+</table>
+
+**Notable Initiatives:**
+- 🌳 Environmental restoration at Wilgamuwa Old Tank
+- 🌿 Wetland conservation at Beddagana Park
+- 🌺 Established herbal medicine garden at Bemmulla Siri Wardhana Viharaya
+
+<br/>
+
 ## 💡 What I'm Currently Exploring
 
 <div align="center">
   
   | Area | Technologies |
   |------|-------------|
-  | **Cloud Computing** | AWS, Docker |
+  | **Cloud Computing** | AWS, Docker, Kubernetes |
   | **Advanced Frontend** | Next.js, TypeScript, Redux Toolkit |
   | **Backend Optimization** | GraphQL, Redis, Microservices |
   | **Mobile Development** | React Native, Progressive Web Apps |
-  | **DevOps & CI/CD** | GitHub Actions, Playwright|
+  | **DevOps & CI/CD** | GitHub Actions, Jenkins, Terraform |
   
 </div>
 
