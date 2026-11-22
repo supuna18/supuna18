@@ -1,16 +1,19 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Supun%20Anjana&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-<img src="https://avatars.githubusercontent.com/u/74636952?v=4" width="160px" style="border-radius: 50%; border: 4px solid #61DAFB;" alt="Supun Anjana"/>
+<img src="https://avatars.githubusercontent.com/u/74636952?v=4" width="160px" style="border-radius: 50%;" alt="Supun Anjana"/>
 
-# Supun Anjana
+# Hi, I'm Supun Anjana 👋
 
-### Software Engineer Intern · IT Undergraduate @ SLIIT
+### 🎯 Aspiring QA Automation Engineer | IT Undergraduate @ SLIIT
 
-*Full-Stack Developer focused on building scalable web & mobile solutions*
+**Former QA Intern @ Berendina Micro Investments Company Limited**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://supunanjana.vercel.app/)
+*Passionate about Software Quality Assurance, Test Automation, and building reliable software solutions.*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://supunanjana.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supun-anjana-bb26342a0)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supuna793@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/supuna18)
@@ -19,85 +22,208 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-```typescript
-const supun: Developer = {
-  institution : "Sri Lanka Institute of Information Technology (SLIIT)",
-  role        : "Software Engineer Intern | IT Undergraduate",
-  focus       : ["Full-Stack Development", "Web Applications", "Mobile Development"],
-  learning    : ["Spring Boot", "Docker", "Kotlin Android", ".NET"],
-  goal        : "Building clean, efficient, and impactful software solutions"
+I'm an **Information Technology undergraduate at SLIIT**, passionate about Software Quality Assurance, Test Automation, and Software Development.
+
+I completed a **six-month QA internship at Berendina Micro Investments Company Limited**, gaining practical experience in testing ERP systems and mobile applications within the microfinance sector.
+
+My experience includes manual and functional testing, System Integration Testing (SIT), User Acceptance Testing (UAT), regression testing, defect reporting, and data migration validation.
+
+I'm currently expanding my automation skills while continuing to develop web applications.
+
+```javascript
+const supun = {
+  education: "BSc (Hons) in Information Technology - SLIIT",
+
+  careerFocus: "Software Quality Assurance & Test Automation",
+
+  experience: "QA Intern - Berendina Micro Investments",
+
+  testing: [
+    "Manual Testing",
+    "Functional Testing",
+    "SIT & UAT",
+    "Regression Testing",
+    "API Testing"
+  ],
+
+  development: [
+    "Java",
+    "JavaScript",
+    "Python",
+    "React",
+    "Node.js"
+  ],
+
+  currentlyLearning: [
+    "Playwright",
+    "Selenium",
+    ".NET"
+  ],
+
+  goal: "Build reliable, high-quality software solutions"
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Professional Experience
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,kotlin,cs,html,css" />
-</p>
+### Quality Assurance (QA) Intern
+**Berendina Micro Investments Company Limited**
 
-### Frameworks & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,dotnet" />
-</p>
+📍 Colombo, Sri Lanka | 📅 April 2026 – October 2026
 
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</p>
+- Performed manual and functional testing of ERP workflows and mobile application features.
+- Executed SIT, UAT, and regression tests during a legacy-to-modern ERP migration.
+- Validated loan workflows, interest calculations, financial transactions, and fee structures.
+- Verified migrated data for accuracy, integrity, and consistency.
+- Documented defects and collaborated with business analysts and vendor engineering teams.
 
-> Also experienced with **PL/SQL** (Oracle)
+**Areas of Experience:**
 
-### Tools & IDEs
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,eclipse,docker,github,figma" />
-</p>
-
-> Also uses **GitHub Desktop**
+`Manual Testing` `ERP Testing` `SIT` `UAT` `Regression Testing` `Data Validation` `Defect Reporting`
 
 ---
 
-## 💼 Featured Projects
+## 🛠️ Technical Skills & Tools
 
-### 🍃 Green Leaf Farm System
-> MERN Stack · Chart.js · Tailwind CSS
+### 🧪 Software Testing & QA
 
-A full-stack farm management platform with real-time analytics dashboards, automated PDF reporting, role-based authentication, and responsive UI.
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-2563EB?style=for-the-badge)
+![Functional Testing](https://img.shields.io/badge/Functional_Testing-0891B2?style=for-the-badge)
+![Regression Testing](https://img.shields.io/badge/Regression_Testing-7C3AED?style=for-the-badge)
+![API Testing](https://img.shields.io/badge/API_Testing-16A34A?style=for-the-badge)
+![SIT](https://img.shields.io/badge/SIT-475569?style=for-the-badge)
+![UAT](https://img.shields.io/badge/UAT-475569?style=for-the-badge)
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://lnkd.in/g4x_zEi6)
+### 🔧 QA & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,figma" alt="Development tools"/>
+</p>
+
+**Additional Tools:** Jira, Chrome DevTools
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,kotlin,html,css" alt="Programming languages"/>
+</p>
+
+### 🌐 Frameworks & Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" alt="Frameworks"/>
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases"/>
+</p>
+
+**Also familiar with:** SQL, Supabase, REST APIs
+
+---
+
+## 📚 Currently Learning
+
+Actively improving my skills in automated testing and modern software development.
+
+![Playwright](https://img.shields.io/badge/Playwright-Learning-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-Learning-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-Learning-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+**Current Focus:** JavaScript-based browser automation with Playwright.
+
+---
+
+## 🚀 Featured Projects
+
+### 🍃 Green Leaf Farm Management System
+
+**Tech Stack:** MongoDB · Express.js · React.js · Node.js · Tailwind CSS
+
+A full-stack farm management platform supporting agricultural operations, employee management, payroll, data visualization, and reporting.
+
+**QA Contributions:**
+- Performed manual and functional testing of crop and fertilizer management features.
+- Verified application workflows and data integrity.
+- Validated generated PDF reports and dashboard data.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://smart-farm-system-deployed-frontend.onrender.com/)
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SavinduS/Smart-Farm-System)
 
 ---
 
 ### 🍔 Online Food Ordering System
-> Java EE · JSP · Servlets · MySQL · MVC Architecture
 
-Enterprise-grade food ordering platform implementing MVC architecture, DAO & Factory design patterns, session management, and a responsive Tailwind CSS frontend.
+**Tech Stack:** Java EE · JSP · Servlets · MySQL · Tailwind CSS
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=flat-square&logo=heroku&logoColor=white)](https://online-food-ordering-app-lfmu.onrender.com/home)
+A web-based food ordering application developed using MVC architecture, database integration, authentication, and responsive UI design.
+
+**QA Contributions:**
+- Tested application workflows and database operations.
+- Validated authenticated user interactions.
+- Performed API checks and investigated UI issues using Chrome DevTools.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=flat-square&logo=googlechrome&logoColor=white)](https://online-food-ordering-app-lfmu.onrender.com/home)
 [![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SavinduS/Online-Food-Ordering)
 
 ---
 
-## 📊 GitHub Stats
+## 🧪 My Test Automation Journey
+
+### Portfolio QA Automation Lab — In Progress
+
+**Tech Stack:** Playwright · JavaScript · Node.js
+
+A hands-on QA automation learning project focused on testing my personal portfolio application.
+
+**Testing Areas:**
+- Homepage and UI validation
+- Navigation testing
+- Contact form field validation
+- Positive and negative test scenarios
+- Assertions and test reporting
+- Cross-browser testing
+
+**Learning Goals:**
+- Develop maintainable automated test scripts.
+- Understand locators, assertions, and test execution.
+- Practice debugging and failure analysis.
+- Explore Page Object Model (POM) and CI/CD integration.
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=supuna18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supuna18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=supuna18&theme=tokyonight&hide_border=true&background=0D1117&stroke=61DAFB&ring=61DAFB&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=supuna18&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&icon_color=61DAFB&text_color=C9D1D9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supuna18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB&text_color=C9D1D9"/>
+
 </div>
 
 ---
 
+## 🤝 Let's Connect
+
+I'm interested in opportunities to learn, collaborate, and grow in Software Quality Assurance and Software Engineering.
+
+📧 **Email:** supuna793@gmail.com
+
+🌐 **Portfolio:** https://supunanjana.vercel.app/
+
+💼 **LinkedIn:** https://www.linkedin.com/in/supun-anjana-bb26342a0
+
 <div align="center">
-  <sub>Open to collaboration and new opportunities · supuna793@gmail.com</sub>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+**Always Learning · Always Improving · Building Quality Software**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
 </div>
