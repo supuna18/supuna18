@@ -1,232 +1,282 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Supun%20Anjana&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%" alt="Supun Anjana Banner"/>
-
-### 👨‍💻 QA-Focused IT Undergraduate | Aspiring QA Automation Engineer
-
-**Former Quality Assurance Intern @ Berendina Micro Investments Company Limited**
-
-Passionate about software quality, test automation, and building reliable web applications.
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1220,100:153B57&height=180&section=header&text=Supun%20Anjana&fontSize=46&fontColor=FFFFFF&fontAlignY=42&desc=Quality%20Assurance%20%7C%20Test%20Automation&descSize=17&descAlignY=72&descColor=BFD8F5"
+  width="100%"
+  alt="Supun Anjana - Quality Assurance and Test Automation"
+/>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://supunanjana.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supun-anjana-bb26342a0)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supuna793@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/supuna18)
+### QA-Focused IT Undergraduate | SLIIT
+
+**Former Quality Assurance Intern at Berendina Micro Investments Company Limited**
+
+Software Quality Assurance · Test Automation · Software Development
+
+<br/>
+
+<a href="https://supunanjana.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/supun-anjana-bb26342a0">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:supuna793@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
-I'm an **Information Technology undergraduate at the Sri Lanka Institute of Information Technology (SLIIT)**, with a strong interest in **Software Quality Assurance, Test Automation, and Software Engineering**.
+I am an **Information Technology undergraduate at the Sri Lanka Institute of Information Technology (SLIIT)**, with a strong interest in **Software Quality Assurance, Test Automation, and Software Engineering**.
 
-I completed a six-month **Quality Assurance Internship at Berendina Micro Investments Company Limited**, where I gained hands-on experience testing enterprise ERP systems and mobile applications in the microfinance sector.
+I completed a six-month **Quality Assurance internship at Berendina Micro Investments Company Limited**, where I gained hands-on experience in testing ERP systems and mobile applications within the microfinance sector.
 
-My interests extend beyond testing to full-stack web development, allowing me to approach software quality from both development and testing perspectives.
+My background combines practical software testing experience with full-stack development knowledge, helping me approach software quality from both engineering and end-user perspectives.
 
-- 🎓 Reading for a BSc (Hons) in Information Technology at SLIIT
-- 💼 Former QA Intern at Berendina Micro Investments
-- 🧪 Experienced in Manual Testing, SIT, UAT, and Regression Testing
-- 🤖 Currently developing test automation skills using Playwright
-- 💻 Interested in full-stack development and software quality
-- 🎯 Career Goal: QA Automation Engineer / Software Quality Engineer
+- **Career Focus:** Software Quality Assurance & Test Automation
+- **Industry Experience:** ERP Testing, SIT, UAT, Regression Testing
+- **Development:** Java, JavaScript, Python, React.js, Node.js
+- **Currently Learning:** Playwright, Selenium, .NET
+- **Career Goal:** Build reliable, maintainable, and high-quality software solutions
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### Quality Assurance (QA) Intern
 
 **Berendina Micro Investments Company Limited**
 
-📍 Colombo, Sri Lanka  
-📅 April 2026 – October 2026 | 6 Months
+Colombo, Sri Lanka | April 2026 – October 2026
 
-**Key Responsibilities & Contributions:**
+**Key Responsibilities & Contributions**
 
-- Performed manual and functional testing of ERP workflows and mobile application features.
-- Executed System Integration Testing (SIT), User Acceptance Testing (UAT), and regression testing during a core ERP migration.
-- Validated microfinance loan lifecycles, interest calculations, fee structures, and financial transactions.
-- Verified migrated data by comparing legacy ERP records with the modernized system.
-- Identified and documented software defects, supporting issue investigation and retesting.
+- Performed manual and functional testing of ERP workflows and mobile application features against business requirements.
+- Executed System Integration Testing (SIT), User Acceptance Testing (UAT), and regression testing during a legacy-to-modern core ERP migration.
+- Validated microfinance loan lifecycles, loan cycles, interest calculations, fee structures, and financial transaction workflows.
+- Supported data migration assurance by comparing legacy and modern ERP records for accuracy, consistency, and financial reconciliation.
+- Identified and documented defects, supporting issue investigation, retesting, and validation.
 - Collaborated with business analysts, project leads, and vendor engineering teams.
 
-**Areas of Experience:**
+**Core Experience**
 
-`Manual Testing` `Functional Testing` `ERP Testing` `SIT` `UAT` `Regression Testing` `Data Validation` `Defect Reporting`
-
----
-
-## 🛠️ Technical Skills & Tools
-
-### 🧪 Software Testing & QA
-
-![Manual Testing](https://img.shields.io/badge/Manual_Testing-2563EB?style=for-the-badge)
-![Functional Testing](https://img.shields.io/badge/Functional_Testing-0891B2?style=for-the-badge)
-![Regression Testing](https://img.shields.io/badge/Regression_Testing-7C3AED?style=for-the-badge)
-![API Testing](https://img.shields.io/badge/API_Testing-16A34A?style=for-the-badge)
-![SIT](https://img.shields.io/badge/SIT-475569?style=for-the-badge)
-![UAT](https://img.shields.io/badge/UAT-475569?style=for-the-badge)
-![Defect Reporting](https://img.shields.io/badge/Defect_Reporting-DC2626?style=for-the-badge)
-
-### 🔧 QA & Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,figma" alt="QA and Development Tools"/>
-</p>
-
-**Additional Tools:** Jira · Chrome DevTools · GitHub Desktop
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,kotlin,html,css" alt="Programming Languages"/>
-</p>
-
-### 🌐 Frameworks & Web Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" alt="Frameworks and Web Technologies"/>
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases"/>
-</p>
-
-**Also familiar with:** SQL · Supabase · REST APIs
+`Manual Testing` · `Functional Testing` · `ERP Testing` · `SIT` · `UAT` · `Regression Testing` · `Defect Reporting` · `Data Validation`
 
 ---
 
-## 📚 Currently Learning
+## Technical Skills
 
-Expanding my technical expertise in automated testing and modern software development.
+### Software Testing & Quality Assurance
 
-![Playwright](https://img.shields.io/badge/Playwright-Learning-2EAD33?style=for-the-badge)
-![Selenium](https://img.shields.io/badge/Selenium-Exploring-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-Learning-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-1E40AF?style=flat-square)
+![Functional Testing](https://img.shields.io/badge/Functional_Testing-0369A1?style=flat-square)
+![Regression Testing](https://img.shields.io/badge/Regression_Testing-475569?style=flat-square)
+![API Testing](https://img.shields.io/badge/API_Testing-0F766E?style=flat-square)
+![SIT](https://img.shields.io/badge/SIT-334155?style=flat-square)
+![UAT](https://img.shields.io/badge/UAT-334155?style=flat-square)
 
-**Current Focus:**
-- Writing automated browser tests using Playwright and JavaScript
-- Understanding locators, assertions, and test execution
-- Developing reusable and maintainable automated test cases
-- Learning test automation frameworks and QA best practices
+**Additional Experience:** Test Case Execution, Smoke Testing, Mobile Application Testing, Defect Reporting and Retesting.
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,py,c,cpp,kotlin" alt="Programming Languages"/>
+</p>
+
+**Also familiar with:** HTML, CSS, SQL.
+
+### Frameworks & Web Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" alt="Web Development Technologies"/>
+</p>
+
+**Additional Technologies:** Java EE, JSP, Servlets, REST APIs.
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Database Technologies"/>
+</p>
+
+**Additional Knowledge:** Supabase, Database Management and SQL Queries.
+
+### QA & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,git,github,vscode,figma" alt="Development and QA Tools"/>
+</p>
+
+**Other Tools:** Jira, Chrome DevTools, GitHub Desktop, Power BI.
 
 ---
 
-## 🚀 Featured Projects
+## Currently Learning
 
-### 🍃 Green Leaf Farm Management System
+I am actively developing my technical expertise in automated testing and modern software engineering practices.
 
-**Tech Stack:** MongoDB · Express.js · React.js · Node.js · Tailwind CSS
+| Technology | Learning Focus |
+|:---|:---|
+| **Playwright** | Browser Automation, Locators, Assertions, Test Execution |
+| **Selenium** | Web Browser Automation |
+| **.NET** | Application Development |
 
-A full-stack farm management platform designed to support agricultural operations, employee management, payroll, and administrative workflows.
+**Current Priority:** Building practical browser automation skills using Playwright and JavaScript.
 
-**Key Features:**
-- Farm and inventory management
+---
+
+## Featured Projects
+
+### 01. Green Leaf Farm Management System
+
+**Full-Stack Farm Management Platform**
+
+`MongoDB` `Express.js` `React.js` `Node.js` `Tailwind CSS`
+
+A comprehensive web-based farm management platform designed to streamline agricultural and administrative operations.
+
+**Key Features**
+- Crop, livestock, and inventory management
 - Employee attendance and payroll management
-- Role-based user authentication
-- Analytics dashboards and reporting
+- Role-based authentication and access control
+- Dashboard analytics and reporting
 - PDF generation and responsive interfaces
 
-**QA Contributions:**
-- Manual and functional testing of management workflows
+**Quality Assurance Contributions**
+- Functional testing of application workflows
 - Data integrity and validation checks
-- Verification of dashboard visualizations and generated reports
+- Verification of dashboard visualizations and PDF reports
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=flat-square&logo=vercel&logoColor=white)](https://smart-farm-system-deployed-frontend.onrender.com/)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SavinduS/Smart-Farm-System)
+[Live Application](https://smart-farm-system-deployed-frontend.onrender.com/) · [Source Code](https://github.com/SavinduS/Smart-Farm-System)
 
 ---
 
-### 🍔 Online Food Ordering System
+### 02. Online Food Ordering System
 
-**Tech Stack:** Java EE · JSP · Servlets · MySQL · Tailwind CSS
+**Web-Based Food Ordering Application**
 
-A web-based food ordering platform implementing MVC architecture, database integration, user authentication, and responsive web interfaces.
+`Java EE` `JSP` `Servlets` `MySQL` `Tailwind CSS`
 
-**Key Features:**
-- Product browsing and ordering
+A database-driven online food ordering platform implementing MVC architecture and modern software design principles.
+
+**Key Features**
+- Food browsing and order management
 - Authentication and session management
-- Database-driven order processing
+- Database-driven application workflows
 - MVC architecture and design patterns
+- Responsive user interfaces
 
-**QA Contributions:**
+**Quality Assurance Contributions**
 - Functional testing of application workflows
-- Validation of database operations
+- Verification of database operations
 - API checks and UI debugging using Chrome DevTools
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=flat-square&logo=googlechrome&logoColor=white)](https://online-food-ordering-app-lfmu.onrender.com/home)
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SavinduS/Online-Food-Ordering)
+[Live Application](https://online-food-ordering-app-lfmu.onrender.com/home) · [Source Code](https://github.com/SavinduS/Online-Food-Ordering)
 
 ---
 
-## 🧪 Test Automation Journey
+## Test Automation Portfolio
 
 ### Portfolio QA Automation Lab
 
 **Status:** In Progress
 
-**Technologies:** Playwright · JavaScript · Node.js
+`Playwright` `JavaScript` `Node.js`
 
-A practical automation testing project focused on verifying the functionality, usability, and reliability of my personal portfolio website.
+A hands-on test automation project focused on validating the functionality and reliability of my personal portfolio application.
 
-**Current Testing Activities:**
-- Homepage and UI element verification
-- Contact form visibility and input validation
-- Browser automation using Playwright
-- Assertions and test result verification
-- Test execution and debugging
+**Implemented**
+- Contact form UI element verification
+- Automated input field validation
+- Playwright test execution and assertions
+- HTML test report analysis
+- Browser launch troubleshooting
 
-**Planned Improvements:**
+**Upcoming**
 - Positive and negative testing scenarios
-- Navigation and CV download testing
-- Cross-browser testing
+- Navigation and CV download verification
+- Cross-browser test execution
 - Page Object Model (POM)
-- HTML test reports
 - GitHub Actions CI/CD integration
 
----
-
-## 🌱 Learning Philosophy
-
-> Learning by building, testing, debugging, and understanding how things work — not just copying code.
-
-I enjoy exploring technologies through hands-on projects, understanding the reasoning behind each implementation, and continuously improving my problem-solving skills.
+**Objective:** Develop maintainable automated tests while strengthening real-world QA automation and debugging skills.
 
 ---
 
-## 📊 GitHub Statistics
+## Education
+
+**BSc (Hons) in Information Technology — Reading**
+
+Sri Lanka Institute of Information Technology (SLIIT)
+
+2024 – Present
+
+---
+
+## Certifications
+
+| Certification | Issued By |
+|:---|:---|
+| Python for Beginners | University of Moratuwa |
+| Web Design for Beginners | University of Moratuwa |
+| Introduction to Responsible AI | Google |
+| Introduction to Graphic Design; Basics of UI/UX | Simplilearn |
+
+---
+
+## Leadership & Volunteering
+
+**Leo Club of SLIIT**
+
+Second Vice President (2026/2027)
+
+Co-Assistant Secretary (2025/2026)
+
+Contributing to volunteer initiatives, event coordination, team collaboration, and community engagement.
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=supuna18&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=supuna18&show_icons=true&theme=github_dark&hide_border=true"
+  height="165"
+  alt="GitHub Activity Statistics"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supuna18&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=supuna18&layout=compact&theme=github_dark&hide_border=true"
+  height="165"
+  alt="Most Used Languages"
+/>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+## Connect With Me
 
-I'm open to opportunities in Software Quality Assurance, Test Automation, and Software Engineering.
+I am interested in opportunities to grow, collaborate, and contribute to software quality and engineering initiatives.
+
+- **Portfolio:** [supunanjana.vercel.app](https://supunanjana.vercel.app/)
+- **LinkedIn:** [Supun Anjana](https://www.linkedin.com/in/supun-anjana-bb26342a0)
+- **GitHub:** [github.com/supuna18](https://github.com/supuna18)
+- **Email:** [supuna793@gmail.com](mailto:supuna793@gmail.com)
+
+---
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Visit_My_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://supunanjana.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supun-anjana-bb26342a0)
-[![Email](https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supuna793@gmail.com)
+**Software Quality Assurance | Test Automation | Software Engineering**
 
-<br/>
-
-**Always Learning · Always Improving · Building Quality Software**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer Banner"/>
+<sub>Learning continuously. Building thoughtfully. Testing with purpose.</sub>
 
 </div>
